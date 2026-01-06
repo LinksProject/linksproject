@@ -18,4 +18,5 @@ xorriso -as mkisofs -o links_linux-0.1.iso \
 
 ### Please, subscribe to our Telegram Channel: @xmecorp
 ### if you have questions about LINKS Project and another questions, tell it to us: @xmeco
-### Copyright Xtreme MicroElectronics Corporation (XMECO). Links Project. All Rights Reserved.
+### SUpported Languages: English, Russian.
+### Copyright Xtreme MicroElectronics Corporation (XMECO). Links Project. All Rights Reserved. 2026.
