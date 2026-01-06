@@ -13,7 +13,7 @@ xorriso -as mkisofs -o links_linux-0.1.iso \
    -no-emul-boot -boot-load-size 4 -boot-info-table \
    ./iso_root
 
-### 4. Find a LINKS Linux ISO file. If you dont find it, make sure you installed all packets upper this text and thy again.
+### 4. Find a LINKS Linux ISO file. If you dont find it, make sure you installed all packets upper this text and try again.
 ### 5. Enjoy The LINKS!
 
 ### Please, subscribe to our Telegram Channel: @xmecorp
