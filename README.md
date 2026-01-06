@@ -7,7 +7,7 @@
 ### 1. Make Sure, you having installed packets: libisofs, libburn, readline, acl, zlib, and libisoburn
 ### 2. Unpack the *.tar.gz file in your Linux System.
 ### 3. Find a folder with sources and enter on it.
-### 4. Run a ISO compiling process in ../links-linux-0.1-sources/Base , with command bellow:
+### 4. Run a ISO compiling process in ../links-linux-0.1-sources/Base , with command bellow (JUST COPY THIS ALL OVER):
 
 xorriso -as mkisofs -o links_linux-0.1.iso \
    -b isolinux/isolinux.bin -c isolinux/boot.cat \
