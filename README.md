@@ -9,7 +9,7 @@
 ### 3. Find a folder with sources and enter on it.
 ### 4. Run a ISO compiling process in ../links-linux-0.1-sources/Base , with command bellow (JUST COPY THIS ALL OVER):
 
-xorriso -as mkisofs -o custom_linux.iso    -b isolinux/isolinux.bin -c isolinux/boot.cat    -no-emul-boot -boot-load-size 4 -boot-info-table    ./iso_root
+xorriso -as mkisofs -o links-linux-0.1.iso    -b isolinux/isolinux.bin -c isolinux/boot.cat    -no-emul-boot -boot-load-size 4 -boot-info-table    ./iso_root
 
 ### 5. Find a LINKS Linux ISO file. If you dont find it, make sure you installed all packets upper this text and try again.
 ### 6. Enjoy The LINKS!
